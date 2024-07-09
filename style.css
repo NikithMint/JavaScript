@@ -1,0 +1,14 @@
+h1{
+    color: blue;
+}
+body{
+    background-color: brown;
+}
+div{
+    height: 100px;
+    width: 100px;
+    background-color: cadetblue;
+    color: aliceblue;
+    border: 1px solid black;
+}
+
